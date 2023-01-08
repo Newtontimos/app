@@ -1,0 +1,30 @@
+#value {
+  color: black;
+  font-size: 90px;
+  text-align: center;
+}
+.button-container {
+  text-align: center;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.btn {
+  font-size: 20px;
+  cursor: pointer;
+  padding: 14px 30px;
+  border-radius: 8px;
+  margin-top: 150px;
+}
+
+.btn1 {
+  background-color: green;
+}
+
+.btn2 {
+  background-color: burlywood;
+}
+
+.btn3 {
+  background-color: red;
+}
